@@ -10,7 +10,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: #aeb0aa;
+  background-color: #7D8769;
   border-radius: 0;
   border: 0;
   margin-bottom: 65px;
@@ -76,14 +76,14 @@ div ul li a {
   background: #AEB0AA;
   color: #000;
   text-align: center;
-  margin: 10px 10px 10px 25px;
+  margin: 10px 10px 10px 10px;
 }
 .food-3{
   border: 1px solid #000;
   background: #AEB0AA;
   color: #000;
   text-align: center;
-  margin: 10px 10px 10px 25px;
+  margin: 10px 10px 10px 10px;
 }
 .foodname{
   color: #000;
@@ -104,6 +104,8 @@ div ul li a {
 .row {
   width: 100%;
 }
+/* from here is the style of how the viewers sees from
+diffrent typs of devics */ 
 
 /* DESKTOP MODE */
 
